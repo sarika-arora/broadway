@@ -18,3 +18,17 @@ h1 {
   font-size: 18px;
   color: white;
 }
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.supporting-section p {
+  font-size: 14px;
+}
