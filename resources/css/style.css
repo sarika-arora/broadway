@@ -32,3 +32,11 @@ h3 {
 .supporting-section p {
   font-size: 14px;
 }
+
+.middle {
+  font-size: 23px;
+  font-weight: bold;
+  display: block;
+  color: white;
+  background-image: url("../images/the-flatiron-building.png");
+}
